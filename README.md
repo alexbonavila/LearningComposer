@@ -48,3 +48,11 @@ The package has been moved for better practices, composer.json has also been mod
 
 ## Autoload
 
+The section is finished using some autoload options, and completed with some basic code:
+
+Command to try code:
+
+`$ php public/index.php`
+
+![Final Execution](/docs/final.png)
+
