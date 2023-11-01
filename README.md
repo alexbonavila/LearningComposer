@@ -36,10 +36,15 @@ The update command updates the dependencies to their latest allowed versions wit
 
 `$ composer update`
 
-## _**Package version control**_
+## Package version control
 
 Packages have been installed in composer.json, just to learn the different forms of package version control.
 
 ## Packagist
 
+The package has been moved for better practices, composer.json has also been modified and a repository has been created in packagist.
+
+- [Packagist Repository](https://packagist.org/packages/alexbonavila/learning-composer)
+
 ## Autoload
+
