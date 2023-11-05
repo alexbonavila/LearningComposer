@@ -1,3 +1,13 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Instructions and Concepts](#instructions-and-concepts)
+    - [Basic Commands](#basic-commands)
+    - [Package version control](#package-version-control)
+    - [Packagist](#packagist)
+    - [Autoload](#autoload)
+- [Bibliography](#bibliography)
+
 # Introduction
 This project is part of a set of roadmaps, where this is a small gear intended to collect a series of concepts, related to composer.
 
@@ -56,3 +66,8 @@ Command to try code:
 
 ![Final Execution](/docs/final.png)
 
+# Bibliography
+- https://getcomposer.org/
+- https://packagist.org/
+- https://packagist.org/about
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-22-04
